@@ -1,1 +1,2 @@
 jestem w branczu npg_test
+teraz w branczu master
